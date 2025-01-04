@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo{
+    height: 100px;
+    width: 20%;
+     align-items: center;
+}
+.logo h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.navbar{
+    height: 100px;
+    width: 60%;
+}
+.navbar nav ul{
+    display: flex;
+    align-items: center;
+     justify-content: space-evenly;
+}
+.navbar nav ul li{
+   font-size: 25px;
+   padding-left: 50px;
+   color: black;
+    list-style: none;
+}
+.navbar nav ul li:first-child{
+    color: orange;
+}
+.content{
+    height: 550px;
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.wow img{
+    height: 570px;
+  width: 500px;
+}
+.button1{
+    background-color: black;
+    height: 40px;
+    width: 120px;
+    color: white;
+    font-size: 14px;
+}
+
+.para1{
+    margin-right: 200px;
+}
+.about{
+    height: 700px;
+    width: 100%;
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+}
+.d .abth1{
+    font-size: 30px;
+}
+.d .abtb{
+    font-size: 15px;
+}
+.c{
+    width: 40%;
+     height: 500px;
+     /* border: 1px solid black; */
+}
+.c img{
+    height: 100%;
+    width: 100%;
+}
+.d{
+    width: 40%;
+     height: 500px;
+     /* border: 1px solid black; */
+}
+.d h1{
+    font-size: 49px;
+}
+.d b{
+    font-size: 17px;
+    color: orange;
+}
+.d p{
+    font-size: 17px;
+    opacity: 0.9;
+}
+.d button{
+    width: 200px;
+    height: 60px;
+    background-color: orange;
+    color: black;
+    font-size: 15px;
+}
+footer{
+    height: 600px;
+  
+    background-color: rgb(47, 44, 44);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    height: 300px;
+    width: 20%;
+    /* border: 1px solid black; */
+    
+    margin-left: 4%;
+    margin-top: -10%;
+    
+}
+.q{
+    height: 300px;
+    width: 20%;
+    /* border: 1px solid black; */
+   
+    margin-left: 4%;
+    margin-top: -10%;
+}
+.r{
+    height: 300px;
+    width: 20%;
+    /* border: 1px solid black; */
+    
+    margin-left: 4%;
+    margin-top: -10%;
+}
+.s{
+    height: 300px;
+    width: 20%;
+    /* border: 1px solid black; */
+    
+    margin-left: 4%;
+    margin-top: -10%;
+}
+.p h1{
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+}
+.p p{
+    font-size: 18px;
+    color: whitesmoke;
+    opacity: 0.7;
+}
+.p i{
+    list-style: none;
+    display: inline-block;
+    color: orange;
+    font-size: 30px;
+}
+.q h1{
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+}
+.q p{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.q li{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+.r h1{
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+}
+.r p{
+    font-size: 18px;
+    color: whitesmoke;
+    opacity: 0.7;
+}
+.r i{
+    font-size: 20px;
+    color: white;
+    
+}
+.s h1{
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+}
+.s input{
+    width: 90%;
+    height: 50px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.s p{
+    font-size: 18px;
+    color: whitesmoke;
+    opacity: 0.7;
+}
+.s button{
+    border-radius: 10px;
+    padding: 15px 30px;
+    background-color: orange;
+    color: white;
+    font-size: 20px;
+}
