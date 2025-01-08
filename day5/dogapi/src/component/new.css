@@ -1,0 +1,23 @@
+.dog{
+    margin-left: 30%;
+    margin-top: 5%;
+    height: 500px;
+    width: 500px;
+}
+.dog img{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    margin-top: 20px;
+    height: 30px;
+    border-radius: 5px;
+    width: 80px;
+    border: 1px solid black;
+    text-align: center;
+    padding-bottom: 27px;
+    background-color: rgb(58, 210, 58);
+    color: white;
+    border: none;
+    margin-left: 45%;
+}
