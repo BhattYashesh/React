@@ -1,0 +1,23 @@
+.main img{
+    width: 300px;
+    
+}
+.images{
+    background-color: rgb(27, 26, 26);
+}
+.names{
+    background-color: rgb(27, 26, 26);
+}
+.prices{
+    background-color: rgb(27, 26, 26);
+}
+
+.mainimg{
+    background-color: chocolate;
+}
+.mainname{
+    background-color: chocolate;
+}
+.mainprice{
+    background-color: chocolate;
+}
