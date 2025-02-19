@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+   height: 70px;
+   width: 100%;
+}
+.img{
+    width: 8%;
+    margin-top: 17px;
+}
+.img img{
+    height: 50%;
+    width: 100%;
+   
+}
+.search{
+    width: 45%;
+   height: 50px;
+   margin-top: 8px;
+   border: 1px solid rgb(235, 227, 227);
+}
+.search i{
+    position: absolute;
+    top: 4.5%;
+    left: 15.5%;
+    z-index: 1;
+   
+   
+}
+.inputsearch{
+    position: relative;
+    margin-left: 8%;
+   width: 80%;
+   font-size: 15px;
+   opacity: 0.9;
+   height: 30px;
+  margin-top: 6px;
+}
+.add{
+    margin-top: 18px;
+    width: 10%;
+
+}
+.link{
+   padding-left: 8px;
+   padding-right: 8px;
+   padding-top: 3px;
+   padding-bottom: 4px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+.sign{
+    margin-top: 13px;
+    width: 10%;
+
+}
+.sign button{
+   height: 32px;
+   width: 100px;
+   border: none;
+    background-color: #f84464;
+    color: white;
+    text-decoration: none;
+    margin-top: 4px;
+}
+.bar{
+    margin-top: 13px;
+    width: 10%;
+
+}
+.bar i{
+    
+    margin-top: 16px;
+}
+#key{
+    z-index: 5;
+    height: auto;
+    width: 550px;
+    backface-visibility: hidden;
+}
